@@ -59,6 +59,6 @@ public class HelloSender {
                 }
             }
         });
-        System.out.println((receivedMessage.getBody(String.class)));
+        //System.out.println((receivedMessage.getBody(String.class)));
     }
 }
